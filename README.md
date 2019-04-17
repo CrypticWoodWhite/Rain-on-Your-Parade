@@ -1,8 +1,5 @@
 # Rain on your parade
 
-## UWASEA201811FSF5 project 1 due 2/11/19
-## Stefan Apreutesei, Yin Lee, Ethan Mo, Catherine Pham
-
 ### APIs used
 * Google Maps Places
 * Firebase
